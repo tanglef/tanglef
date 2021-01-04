@@ -12,7 +12,7 @@ You can find me on:
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-mu-orcin.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tanguy2311>)
+[<img align="center" src="https://spotify-now-playing-mu-orcin.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tanguy2311>)
 
 ---
 
