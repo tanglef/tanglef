@@ -7,10 +7,15 @@
 --------
 
 You can find me on:
-[<img align="center" alt="Discord" width="40px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />](https://discordapp.com/users/674358893501218823) or [<img align="center" alt="youtube" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) (the later contains some of my oral presentations)
+[<img align="center" alt="Discord" width="40px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />](https://discordapp.com/users/674358893501218823)  or  [<img align="center" alt="youtube" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) (the later contains some of my oral presentations)
 <br />
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing-mu-orcin.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tanguy2311>)
+
 ---
+
 <p align="center" href="https://github.com/tanglef">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanglef&show_icons=true&theme=radical" /> &nbsp;&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanglef&theme=radical&hide=jupyter%20notebook" />
