@@ -16,8 +16,6 @@ You can find me on:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanglef&theme=radical&hide=jupyter%20notebook" />
 </a>
 
-![tanglef's github stats](https://github-readme-stats.vercel.app/api?username=tanglef&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanglef&theme=radical&hide=jupyter%20notebook)](https://github.com/tanglef/github-readme-stats)
-
 <!--
 **tanglef/tanglef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
