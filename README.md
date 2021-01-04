@@ -7,8 +7,8 @@
 --------
 You can find me on:
 
-[<img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://discordapp.com/users/674358893501218823)
-[<img align="left" alt="youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/youtube.svg" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) 
+[<img align="left" alt="Discord" width="40px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />](https://discordapp.com/users/674358893501218823)
+[<img align="left" alt="youtube" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) 
 
 
 <br />
