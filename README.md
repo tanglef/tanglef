@@ -17,8 +17,8 @@ You can find me on:
 
 ### Spotify Playing 🎧
 
-[<img align="center" src="https://spotify-now-playing-mu-orcin.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tanguy2311)
-
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;[<img align="center" src="https://spotify-now-playing-mu-orcin.vercel.app//api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tanguy2311)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
+[<img align="center" width=300 height=300 src="https://octodex.github.com/images/pythocat.png" alt="octocatpython"/>](https://octodex.github.com)
 ---
 
 <p align="center" href="https://github.com/tanglef">
