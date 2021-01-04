@@ -5,13 +5,12 @@
  </div>
 
 --------
+
 You can find me on:
-
-[<img align="left" alt="Discord" width="40px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />](https://discordapp.com/users/674358893501218823)
-[<img align="left" alt="youtube" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) 
-
-
+[<img align="center" alt="Discord" width="40px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />](https://discordapp.com/users/674358893501218823) or [<img align="center" alt="youtube" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) (the later contains some of my oral presentations)
 <br />
+
+---
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tanglef&show_icons=true&theme=radical)
 
