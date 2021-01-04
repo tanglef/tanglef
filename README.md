@@ -11,6 +11,10 @@ You can find me on:
 <br />
 
 ---
+<p align="center" href="https://github.com/tanglef">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanglef&show_icons=true&theme=radical" /> &nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanglef&theme=radical&hide=jupyter%20notebook" />
+</a>
 
 ![tanglef's github stats](https://github-readme-stats.vercel.app/api?username=tanglef&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanglef&theme=radical&hide=jupyter%20notebook)](https://github.com/tanglef/github-readme-stats)
 
