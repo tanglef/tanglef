@@ -9,7 +9,7 @@
 - I'm currently in a master's degree in Biostatistics at the University of Montpellier
 - 🔭 I'm working on image classification (more soon hopefully)
 - 🌱 As a side project, I try to make a [Machine Learning intro website](https://tlearning.herokuapp.com/)
-- 😄 Pronouns: He/Him
+- 🙂 Pronouns: He/Him
 
 You can find me on:
 [<img align="center" alt="Discord" width="40px" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" />](https://discordapp.com/users/674358893501218823)  or  [<img align="center" alt="youtube" width="40px" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-256.png" />](https://www.youtube.com/channel/UCdnqdTeUXeMNaeVrbCnxKkA) (the later contains some of my oral presentations)
