@@ -6,7 +6,7 @@
 
 --------
 
-- I'm currently in a master's degree in Biostatistics at the University of Montpellier
+- I'm currently in a PhD thesis in Statistics at the University of Montpellier under the supervision of [Joseph Salmon](http://josephsalmon.eu/), [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php) (Inria)
 - 🔭 I'm working on image classification (more soon hopefully)
 - 🌱 As a side project, I try to make a [Machine Learning intro website](https://tlearning.herokuapp.com/)
 - 🙂 Pronouns: He/Him
