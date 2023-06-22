@@ -19,8 +19,3 @@ You can find me on:
 &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;[<img align="center" src="https://spotify-now-playing.tanglef.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/tanguy2311)&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" width=300 height=300 src="https://octodex.github.com/images/pythocat.png" alt="octocatpython"/>](https://octodex.github.com)
 ---
-
-<p align="center" href="https://github.com/tanglef">
-  <img align="center" src="https://github-readme-stats-tanglef.vercel.app/api?username=tanglef&show_icons=true&theme=radical" /> &nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats-tanglef.vercel.app/api/top-langs/?username=tanglef&theme=radical&hide=jupyter%20notebook,tex" />
-</a>
