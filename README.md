@@ -5,7 +5,9 @@
  </div>
 
 --------
-- :seedling: I'm currently in a PhD thesis in Statistics at the University of Montpellier under the supervision of [Joseph Salmon](http://josephsalmon.eu/), [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php) (Inria)
+- :muscle: Currently Consultant Data at Seenovate in the SeeSports team related to computer vision tasks
+- Postdoc position at INRIA Lille with Odalric-Ambrym Maillard working on recommender systems for plant annotation using Hierarchical and contextual multi armed bandits
+- :seedling: I did a PhD thesis in Statistics at the University of Montpellier under the supervision of [Joseph Salmon](http://josephsalmon.eu/), [Benjamin Charlier](https://imag.umontpellier.fr/~charlier/index.php?page=index) and [Alexis Joly](http://www-sop.inria.fr/members/Alexis.Joly/wiki/pmwiki.php) (Inria)
 - :telescope: I'm working on image classification and label uncertainty in crowdsourcing settings
 - :slightly_smiling_face: Pronouns: He/Him or They/Them (any choice is ok, even a mix)
 - :superhero: Also a comic book fan and a runner
